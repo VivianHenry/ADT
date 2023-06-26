@@ -1,6 +1,6 @@
-<h1>Assignment 2</h1>
+<h1>Abstract Data Types in C++</h1>
 
-The goal of this programming assignment is to use the Array class designed and implemented in the previous assignment in order to implement three more ADTs:
+The goal of this programming assignment is to use the Array class to implement three more ADTs:
 
 <ul>
   <li>Stack: An ADT that contains a list of elements such that the list has last-in, first-out (LIFO) semantics, i.e., elements are inserted into the front of the list and removed from the front of the list
@@ -8,7 +8,7 @@ The goal of this programming assignment is to use the Array class designed and i
   <li>Fixed array: An ADT that is an array, but cannot grow or shrink
 </ul>
 
-In order to solve the LSP violation that occured with the original Array class, the class was divided into a Base_Array with all the basic functionality intended for a fixed array, and an Array class that handles operations for a dynamic array. The updated class design as as shown below.
+In order to solve an LSP violation that occured with the original Array class, the class was divided into a Base_Array with all the basic functionality intended for a fixed array, and an Array class that handles operations for a dynamic array. The updated class design as as shown below.
 
 ![Screen Shot 2022-10-06 at 5 05 05 PM](https://media.github.iu.edu/user/19117/files/f3651df7-7cdc-41b9-8991-2dc7e8bcbe5f)
 
@@ -34,6 +34,3 @@ Included files:
   <li>assignment2.mpc
   <li>driver.cpp
 </ul>
-
-<h3>Notes</h3>
-While the header files for the ADTs do not call for it, I have added implementations for display functions, to display the contents of the ADTs.
