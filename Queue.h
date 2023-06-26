@@ -1,12 +1,3 @@
-//==============================================================================
-/**
- * Honor Pledge:
- *
- * I pledge that I have neither given nor received any help
- * on this assignment.
- */
-//==============================================================================
-
 #ifndef _CS507_QUEUE_H_
 #define _CS507_QUEUE_H_
 
