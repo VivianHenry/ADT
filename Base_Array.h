@@ -1,16 +1,3 @@
-//==============================================================================
-/**
- * @file       Base_Array.h
- *
- * $Id: Base_Array.h 380 2010-02-08 05:10:33Z hillj $
- *
- * Honor Pledge:
- *
- * I pledge that I have neither given nor received any help
- * on this assignment.
- */
-//==============================================================================
-
 #ifndef _BASE_ARRAY_H_
 #define _BASE_ARRAY_H_
 
